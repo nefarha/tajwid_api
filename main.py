@@ -24,5 +24,5 @@ def predict():
 def index():
     return jsonify({"message": "Welcome to tajwid ai"})
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
